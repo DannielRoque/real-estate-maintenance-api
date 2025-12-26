@@ -1,40 +1,36 @@
 <div id="top"></div>
-<!--
-*** Real Estate Maintenance API
-*** Personal portfolio project
--->
 
-
-
-<!-- PROJECT SHIELDS -->
-[![Java][java-shield]][java-url]
-[![Spring Boot][spring-shield]][spring-url]
-[![License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
-<!-- PROJECT LOGO -->
 <br />
-<div align="center">
-  <h3 align="center">Real Estate Maintenance API</h3>
 
-  <p align="center">
-    Backend API built with Spring Boot to manage real estate maintenance requests.
-    <br />
-    <br />
-    <a href="#about-the-project"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="#getting-started">Getting Started</a>
-    ·
-    <a href="#roadmap">Roadmap</a>
-  </p>
+<div align="center">
+
+<h1>Real Estate Maintenance API</h1>
+
+<p>
+  Backend API built with Spring Boot to manage real estate maintenance requests
+  with authentication, status workflow and business rules.
+</p>
+
+<p>
+  <a href="#getting-started"><strong>Getting Started</strong></a>
+  ·
+  <a href="#api-documentation"><strong>API Docs</strong></a>
+  ·
+  <a href="#roadmap"><strong>Roadmap</strong></a>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Java-17+-orange?style=flat-square" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-3.x-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square" />
+</p>
+
 </div>
 
+<br />
 
 
-<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -61,8 +57,6 @@
 </details>
 
 
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
 This project solves a **real-world problem** related to rental properties:  
@@ -77,8 +71,6 @@ The project was built as a **portfolio project**, focusing on:
 - Realistic domain modeling
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ### Domain Overview
 
@@ -99,8 +91,6 @@ Each status change is recorded for traceability and auditing.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
 ### Built With
 
 * Java 17+
@@ -114,9 +104,6 @@ Each status change is recorded for traceability and auditing.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
-
-<!-- GETTING STARTED -->
 ## Getting Started
 
 Instructions to set up the project locally.
